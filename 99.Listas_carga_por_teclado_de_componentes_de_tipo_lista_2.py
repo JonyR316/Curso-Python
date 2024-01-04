@@ -29,8 +29,6 @@ print("Sueldos total de cada empleado")
 for x in range(3):
     total= sueldos[x][0]+ sueldos[x][1]+ sueldos[x][2]
     sueldostotal.append(total)
-
-
 for x in range(3):
     print(empleados[x],sueldostotal[x])
     
