@@ -1,5 +1,5 @@
 """
-Crear y cargar por teclado en el bloque principal del programa una lista de 5 enteros. Implemewntar
+Crear y cargar por teclado en el bloque principal del programa una lista de 5 enteros. Implementar
 una funcion que imprima el mayor y el menor valor de la lista.
 """
 
