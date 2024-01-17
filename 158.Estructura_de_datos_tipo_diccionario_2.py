@@ -23,7 +23,7 @@ def precio_superior(productos):
     print("Productos con precio superior a 100")
     for nombre in productos:
         if productos[nombre] > 100:
-            print(nombre,)
+            print(nombre)
 
 
 productos=cargar()
